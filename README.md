@@ -14,4 +14,8 @@ The frontend is written in React and runs in Node.js.
 - The frontend is expected to run on [http://localhost:3000](http://localhost:3000)
 - The frontend project can be found here: [bookings-fe](https://github.com/cristiancll/bookings-fe)
 
+## How to run tests
+- Run `mvn test` to run the tests
+
+
 ![bookings](https://user-images.githubusercontent.com/17942124/235056941-dc48bc7d-12ff-409a-a437-228fb4857a81.gif)
